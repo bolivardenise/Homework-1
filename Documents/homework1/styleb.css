@@ -1,0 +1,15 @@
+.firstrow {
+    color: red;
+    background-color: green;
+    font-weight: bold;
+}
+
+.highlight {
+    color: white;
+    background-color: black;
+}
+
+.light {
+    color: blue;
+    background-color: yellow;
+}
